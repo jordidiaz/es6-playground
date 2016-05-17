@@ -1,0 +1,20 @@
+{
+  "name": "es6-playground",
+  "version": "1.0.0",
+  "description": "ES6 examples",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordidiaz/es6-playground.git"
+  },
+  "keywords": [
+    "javascript",
+    "es6"
+  ],
+  "author": "Jordi Díaz Añorga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordidiaz/es6-playground/issues"
+  },
+  "homepage": "https://github.com/jordidiaz/es6-playground#readme"
+}
