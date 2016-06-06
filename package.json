@@ -7,12 +7,21 @@
     "type": "git",
     "url": "git+https://github.com/jordidiaz/es6-playground.git"
   },
+  "scripts": {
+    "arrow": "node_modules/.bin/babel-node --presets es2015 arrow-functions.js",
+    "classes": "node_modules/.bin/babel-node --presets es2015 classes.js",
+    "generators": "node_modules/.bin/babel-node --presets es2015 generators.js"
+  },
   "keywords": [
     "javascript",
     "es6"
   ],
   "author": "Jordi Díaz Añorga",
   "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0"
+  },
   "bugs": {
     "url": "https://github.com/jordidiaz/es6-playground/issues"
   },

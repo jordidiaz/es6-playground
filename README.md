@@ -1,19 +1,25 @@
 # es6-playground
 
-> ES6 examples. Work in progress.
+ES6 examples.
 
-## Contributing
+## Installation
 
-Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/jordidiaz/es6-playground/issues)
+```sh
+npm install es6-playground
+```
 
-## Author
+## Run
 
-**Jordi Díaz Añorga**
+```sh
+npm install
+npm run arrow|generators|classes
+```
 
-* [github/jordidiaz](https://github.com/jordidiaz)
-* [twitter/jordi_diaz](http://twitter.com/jordi_diaz)
+## Dependencies
+
+- [babel-cli](https://github.com/babel/babel/tree/master/packages): Babel command line.
+- [babel-preset-es2015](https://github.com/babel/babel/tree/master/packages): Babel preset for all es2015 plugins.
 
 ## License
 
-Copyright © 2016 [Jordi Díaz Añorga]()
-Licensed under the ISC license.
+ISC
