@@ -10,7 +10,9 @@
   "scripts": {
     "arrow": "node_modules/.bin/babel-node --presets es2015 arrow-functions.js",
     "classes": "node_modules/.bin/babel-node --presets es2015 classes.js",
-    "generators": "node_modules/.bin/babel-node --presets es2015 generators.js"
+    "generator-inject": "node_modules/.bin/babel-node --presets es2015 generator-inject-values.js",
+    "generators": "node_modules/.bin/babel-node --presets es2015 generators.js",
+    "iterator": "node_modules/.bin/babel-node --presets es2015 iterator-protocol.js"
   },
   "keywords": [
     "javascript",
