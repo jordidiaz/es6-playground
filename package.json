@@ -12,7 +12,10 @@
     "classes": "node_modules/.bin/babel-node --presets es2015 classes.js",
     "generator-inject": "node_modules/.bin/babel-node --presets es2015 generator-inject-values.js",
     "generators": "node_modules/.bin/babel-node --presets es2015 generators.js",
-    "iterator": "node_modules/.bin/babel-node --presets es2015 iterator-protocol.js"
+    "iterator": "node_modules/.bin/babel-node --presets es2015 iterator-protocol.js",
+    "this-class": "node_modules/.bin/babel-node --presets es2015 this-class.js",
+    "this-constructor": "node_modules/.bin/babel-node --presets es2015 this-constructor.js",
+    "this-factory": "node_modules/.bin/babel-node --presets es2015 this-factory.js"
   },
   "keywords": [
     "javascript",

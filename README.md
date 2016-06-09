@@ -12,7 +12,7 @@ npm install es6-playground
 
 ```sh
 npm install
-npm run arrow|generators|classes
+npm run script_name
 ```
 
 ## Dependencies
